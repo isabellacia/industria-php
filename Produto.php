@@ -3,10 +3,9 @@
 class Produto{
 
     public $codigo;
-
     public $nome;
-
     public $preco;
+    public $estoque;
 
 }
 
